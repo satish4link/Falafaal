@@ -1,0 +1,129 @@
+section{
+    margin: auto;
+    width: 300px;
+}
+#main_body{
+    background: white;
+    width: 100%;
+    margin: auto;
+    min-height: 100%;
+}
+#content{
+    margin-left: 0%;
+    float: left;
+    min-height: 1px;
+    box-sizing: border-box;
+}
+.navbar {
+    width: 100%;
+    min-height: 60px;
+    display: block;
+    margin-bottom: 0px;
+    background: black;
+    position: relative;
+    padding: 14px;
+}
+
+#index_top{
+    
+    text-align: center;
+}
+#index_mid{
+    
+    text-align: center;
+    padding: 40px;
+}
+#index_bot{
+    background-color: darkseagreen;
+    text-align: center;
+    padding: 40px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 178px;
+}
+a {
+    color: green;
+    text-decoration: none;
+    outline: 0;
+    line-height: inherit;
+    font-weight: 100;
+}
+p {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 16px;
+    font-size: 1rem;
+    margin-bottom: 0px;
+    line-height: 1.625em;
+    color:white;
+}
+#body_frame {
+    background: white;
+    width: 100%;
+    margin: auto;
+    min-height: 88%;
+}
+h2 {
+    font-size: 42px;
+    font-size: 2.625rem;
+    padding: 180px;
+}
+.btn.xlarge, .skiplink.xlarge {
+    font-size: 30px;
+    font-size: 1.875rem;
+    height: 70px;
+    line-height: 64px;
+    width: 170px;
+}
+.btn.default, .skiplink.default {
+    background: green;
+    border: 1px solid #f2f2f2;
+    color: white;
+    border: 1px solid #f2f2f2;
+}
+.tab-nav > li > a {
+    display: block;
+    width: auto;
+    padding: 0 16px;
+    margin: 0;
+    color: green;
+    font-family: "Open Sans";
+    font-weight: 600;
+    border: 1px solid #e5e5e5;
+    border-width: 1px 1px 0 1px;
+    text-shadow: 0 1px 1px white;
+    background: #f2f2f2;
+    cursor: pointer;
+    -moz-border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px;
+    border-radius: 4px 4px 0 0;
+    height: 42px;
+    line-height: 40px;
+}
+
+.btn.primary, .skiplink.primary {
+    background: GREEN;
+    border: WHITE;
+    width: 280px;
+}
+#body_frame {
+	background: white;
+	width: 100%;
+	margin: auto;
+	min-height: 88%;
+}
+.row .three.columns {
+    width: 84.40426%;
+}
+table.rounded {
+    border-radius: 4px;
+    border-collapse: separate;
+    margin-top: 91px;
+}
+table thead {
+    background-color: green;
+    color: #fff;
+}
